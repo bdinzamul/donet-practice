@@ -119,3 +119,218 @@
     border: 2px solid #FF5959;
     background: #FEE;
 }
+/* Section our-donate-plan */
+.our-donate-plan{
+    
+    margin-top: 80px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.our-donate-plan-tittle{
+    color: #121212;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.our-donate-plan-sub-tittle{
+    color: #707070;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+.donet-plan-element{
+    display: flex;
+    
+}
+.food-block{
+    margin: 35px;
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.10);   
+    padding: 15px;
+}
+.food-tittle{
+    color: #121212;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    
+}
+.food-paragraph{
+    color: #707070;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 40px;
+}
+.food-image{
+    margin-top: 40px;
+}
+.shelter-block{
+    margin: 35px;
+    border-radius: 5px;
+    background: rgba(255, 89, 89, 0.10);   
+    padding: 15px;
+}
+.education-block{
+    margin: 35px;
+    border-radius: 5px;
+    background: #FFF4D6; 
+    padding: 15px;
+}
+
+/* body 1 */
+
+.body1{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.body-tittle{
+    color: #121212;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.body-paragraph{
+    color: #707070;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+.btn-body{
+    color: #FFF;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: flex;
+    width: 230px;
+    padding: 16px 12px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 5px;
+    background: #FF5959;
+
+}
+.body-leftsection-text{
+    margin-right: 25px;
+}
+.body-rightsection-text{
+    margin-left: 35px;
+}
+/* Get my Update */
+
+.get-my-update{
+    text-align: center;
+}
+.get-my-update-tittle{
+    color: #121212;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 80px;
+}
+.get-my-update-paragraph{
+    color: #707070;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+/* email box */
+.email-box{
+    text-align: center;
+    margin: 50px 516px 50px;
+    height: 200px;
+    flex-shrink: 0;
+    background: #FFF4D6;
+    
+}
+.email{
+    margin-top: 70px;
+    width: 275px;
+    height: 48px;
+    border-radius: 5px 0px 0px 5px;
+    background: #D9D9D9;
+    text-align: left;
+    padding: 5px ;
+
+}
+.email-btn{
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    width: 157px;
+    height: 48px;
+    
+    border-radius: 0px 5px 5px 0px;
+    background: #FF5959;
+
+}
+
+/* footer */
+.footer{
+    
+    background: var(--default-black, #0B0D17);
+    text-align: center;
+
+}
+
+.footer-tittle{
+    padding-top: 50px;
+    color: #FF5959;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Lobster;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 44px; /* 122.222% */
+    letter-spacing: 0.5px;
+
+}
+
+.footer-sub-tittle{
+    color: var(--text-gray-300, #D9DBE1);
+    font-feature-settings: 'liga' off;
+    /* Body / Body 2 */
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 60px;
+}
